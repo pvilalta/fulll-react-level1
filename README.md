@@ -1,5 +1,8 @@
 # Fulll - React - Level 1
 
+## Global Informations
+App that manage checkbox ticking thanks to state that is provided by React
+
 ## Requirement
 
 NodeJS - Yarn or NPM
